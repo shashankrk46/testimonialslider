@@ -3,7 +3,7 @@ const reviews = [
     id: 1,
     name: "Tanya Sinclair",
     desc:
-      " I've been interested in coding for a while but never taken the jump until now.I couldn't recommend this course enough.I'm now in the job of my dreams and so excited about thefuture.",
+      "\"I've been interested in coding for a while but never taken the jump until now.I couldn't recommend this course enough. I'm now in the job of my dreams and so excited about thefuture.\"",
     job: "UX Engineer",
     pic: "./images/image-tanya.jpg"
   },
@@ -11,7 +11,7 @@ const reviews = [
     id: 2,
     name: "John Tarkpor",
     desc:
-      "If you want to lay the best foundation possible I’d recommend taking this course.The depth the instructors go into is incredible.I now feel so confident about starting up as a professional developer.",
+      '"If you want to lay the best foundation possible I’d recommend taking this course.The depth the instructors go into is incredible.I now feel so confident about starting up as a professional developer."',
     job: "Junior Front-end Developer",
     pic: "./images/image-john.jpg"
   }
